@@ -1,1 +1,3 @@
 # OpenPGPproj
+OpenPGPproj为代码文件
+OpenPGPprojSetup为生成安装包项目
