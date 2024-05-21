@@ -1,6 +1,7 @@
 # OpenPGPproj
 OpenPGPproj为代码文件<br/>
 OpenPGPprojSetup为生成安装包项目<br/>
+详情请见设计报告<br/>
 
 一个本地文件处理程序，基于openPGP实现本地加密文件:<br/>
 1.对目标文件实现对存储者和调阅者的基于pgp的真实性认证和文件加密;<br/>
